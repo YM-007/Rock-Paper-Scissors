@@ -6,7 +6,7 @@ There are 2 players: Player (User) vs Computer (CPU).
 
 When the program is run, the user will choose from 3 option: 'R' (for rock) or 'P' (for paper) or 'S' (for scissors).
 
-Play against the computer until someone wins best of n games.
+Play against the computer until someone wins best of 3 games.
 
 # Game Rules:
 
